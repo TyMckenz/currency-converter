@@ -1,0 +1,14 @@
+header {
+    background-color: #eb9534;
+    padding: 20px;
+}
+
+a {
+    color: #fff;
+    text-decoration: none;
+    padding: 10px;
+}
+
+a:hover {
+    background-color: #eb8034;
+}
