@@ -2,7 +2,7 @@
     text-align: center;
 }
 
-input {
+input, select {
     border: 2px #aaa solid;
     padding: 4px;
     border-radius: 3px;
@@ -15,6 +15,3 @@ b {
     font-size: 25px;
 }
 
-label {
-    margin: 15px;
-}
